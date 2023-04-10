@@ -1,3 +1,2 @@
 Anthony Beltran
-favoriteNumber
 
